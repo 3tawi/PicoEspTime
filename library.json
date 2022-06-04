@@ -1,0 +1,21 @@
+{
+  "name": "PicoEspTime",
+  "version": "1.0.0",
+  "keywords": "ESP32, ESP8266, ESP01, Pi Pico",
+  "description": "An Arduino library for setting and retrieving internal RTC time on ESP32 ESP8266 ESP01 Pi Pico boards",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/3tawi/PicoEspTime"
+  },
+  "authors":
+  [
+    {
+        "name": "3tawi",
+        "youtube": "https://www.youtube.com/c/GreatProjects",
+        "maintainer": true
+    }
+  ],
+  "frameworks": "*",
+  "platforms": "esp32","esp8266","esp01","Pico"
+}

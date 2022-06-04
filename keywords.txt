@@ -1,0 +1,15 @@
+PicoEspTime		KEYWORD1
+******************
+PicoEspTime
+*******************
+adjust		        KEYWORD2
+read			KEYWORD2
+**********************
+DSgetTime		KEYWORD2
+hour			KEYWORD2
+dayOfMonth		KEYWORD2
+month			KEYWORD2
+year			KEYWORD2
+dayOfWeek		KEYWORD2
+getEpoch		KEYWORD2
+getTime			KEYWORD2
